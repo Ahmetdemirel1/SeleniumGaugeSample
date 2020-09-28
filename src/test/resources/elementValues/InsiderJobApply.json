@@ -1,0 +1,83 @@
+[
+  {
+    "key": "insider_logo",
+    "value": "logo",
+    "type": "id"
+  },
+  {
+    "key": "request_a_demo_menu_item",
+    "value": ".//li[@id='menu-item-6466']//a",
+    "type": "xpath"
+  },
+  {
+    "key": "career",
+    "value": ".//li[@id='menu-item-21643']//a",
+    "type": "xpath"
+  },
+  {
+    "key": "career_nav_bar",
+    "value": "career-nav",
+    "type": "id"
+  },
+  {
+    "key": "career opportunities",
+    "value": ".//h2[contains(.,'CAREER OPPORTUNITIES')]",
+    "type": "xpath"
+  },
+  {
+    "key": "jobs_locations",
+    "value": ".//select[@class='jobs-locations']",
+    "type": "xpath"
+  },
+  {
+    "key": "jobs_teams",
+    "value": ".//select[@class='jobs-teams']",
+    "type": "xpath"
+  },
+  {
+    "key": "job_titles",
+    "value": "(.//span[@class='job-title'])",
+    "type": "xpath"
+  },
+  {
+    "key": "department",
+    "value": "(.//span[@class='tag'][1])",
+    "type": "xpath"
+  },
+  {
+    "key": "location",
+    "value": "(.//span[@class='tag'][2])",
+    "type": "xpath"
+  },
+  {
+    "key": "first_job_title",
+    "value": "(.//span[@class='job-title'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "position_title",
+    "value": ".//div[@class='posting-headline']//h2",
+    "type": "xpath"
+  },
+  {
+    "key": "engineering_culture",
+    "value": ".//h3[contains(.,'Our Engineering Culture')]",
+    "type": "xpath"
+  },
+  {
+    "key": "requirements",
+    "value": ".//h3[contains(.,'Requirements;')]",
+    "type": "xpath"
+  },
+  {
+    "key": "apply_for_this_job",
+    "value": ".//div[@data-qa='btn-apply-bottom']//a",
+    "type": "xpath"
+  },
+  {
+    "key": "application_form_page",
+    "value": "(.//div[@class='section page-centered application-form'])[1]//h4",
+    "type": "xpath"
+  }
+
+]

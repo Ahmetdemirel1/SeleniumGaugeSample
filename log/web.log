@@ -1,0 +1,70 @@
+2020-09-28 08:47:51 INFO  BaseTest:30 - **************** INSIDER JOB APPLY Senaryosu Başladı ****************
+2020-09-28 08:47:51 ERROR WebDriverUtil:73 - error browser:[chrome]
+2020-09-28 08:48:05 INFO  StepImplementation:136 - 'insider_logo' elementi görünene kadar beklendi
+2020-09-28 08:48:05 INFO  AssertionOperation:19 -  'REQUEST A DEMO' ve 'REQUEST A DEMO' değerleri bir birine eşit mi kontrol edildi.
+2020-09-28 08:48:10 INFO  StepImplementation:65 - 'career' elementine tıklandı.
+2020-09-28 08:48:11 INFO  StepImplementation:136 - 'career_nav_bar' elementi görünene kadar beklendi
+2020-09-28 08:48:11 INFO  StepImplementation:145 - 'career opportunities' elementi görünene kadar kaydırıldı
+2020-09-28 08:48:12 WARN  WaitOperation:116 - '1' saniye statik bekleme yapıldı
+2020-09-28 08:48:12 INFO  StepImplementation:110 - '1' saniye beklendi
+2020-09-28 08:48:12 INFO  StepImplementation:153 - 'jobs_locations' select listesinden 'Istanbul, Turkey' değeri seçildi
+2020-09-28 08:48:13 WARN  WaitOperation:116 - '1' saniye statik bekleme yapıldı
+2020-09-28 08:48:13 INFO  StepImplementation:110 - '1' saniye beklendi
+2020-09-28 08:48:13 INFO  StepImplementation:153 - 'jobs_teams' select listesinden 'Quality Assurance' değeri seçildi
+2020-09-28 08:48:15 WARN  WaitOperation:116 - '2' saniye statik bekleme yapıldı
+2020-09-28 08:48:15 INFO  StepImplementation:110 - '2' saniye beklendi
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Quality Assurance Analyst' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Quality Assurance Engineer' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Quality Assurance Team Lead' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Quality Assurance Tester' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Senior Software Quality Assurance Engineer' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Quality Assurance' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Quality Assurance' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Quality Assurance' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Quality Assurance' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Quality Assurance' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Istanbul, Turkey' değeri 'Istanbul, Turkey' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Istanbul, Turkey' değeri 'Istanbul, Turkey' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Istanbul, Turkey' değeri 'Istanbul, Turkey' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Istanbul, Turkey' değeri 'Istanbul, Turkey' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:16 INFO  AssertionOperation:31 -  'Istanbul, Turkey' değeri 'Istanbul, Turkey' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:21 INFO  StepImplementation:65 - 'first_job_title' elementine tıklandı.
+2020-09-28 08:48:21 INFO  AssertionOperation:31 -  'Quality Assurance Analyst' değeri 'Quality Assurance Analyst' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:21 INFO  StepImplementation:145 - 'engineering_culture' elementi görünene kadar kaydırıldı
+2020-09-28 08:48:21 INFO  StepImplementation:145 - 'requirements' elementi görünene kadar kaydırıldı
+2020-09-28 08:48:21 INFO  StepImplementation:145 - 'apply_for_this_job' elementi görünene kadar kaydırıldı
+2020-09-28 08:48:23 INFO  StepImplementation:65 - 'apply_for_this_job' elementine tıklandı.
+2020-09-28 08:48:23 INFO  AssertionOperation:31 -  'SUBMIT YOUR APPLICATION' değeri 'SUBMIT YOUR APPLICATION' değerini içeriyor mu kontrol edildi.
+2020-09-28 08:48:24 INFO  BaseTest:39 - **************** INSIDER JOB APPLY Senaryosu Bitti ****************
+2020-09-28 09:05:03 INFO  BaseTest:30 - **************** INSIDER JOB APPLY NEGATIVE SCENARIO FOR SCREENSHOT Senaryosu Başladı ****************
+2020-09-28 09:05:03 ERROR WebDriverUtil:73 - error browser:[firefox]
+2020-09-28 09:05:16 INFO  StepImplementation:136 - 'insider_logo' elementi görünene kadar beklendi
+2020-09-28 09:05:17 INFO  AssertionOperation:19 -  'REQUEST A DEMO' ve 'REQUEST A DEMO' değerleri bir birine eşit mi kontrol edildi.
+2020-09-28 09:05:23 INFO  StepImplementation:65 - 'career' elementine tıklandı.
+2020-09-28 09:05:24 INFO  StepImplementation:136 - 'career_nav_bar' elementi görünene kadar beklendi
+2020-09-28 09:05:24 INFO  StepImplementation:145 - 'career opportunities' elementi görünene kadar kaydırıldı
+2020-09-28 09:05:25 WARN  WaitOperation:116 - '1' saniye statik bekleme yapıldı
+2020-09-28 09:05:25 INFO  StepImplementation:110 - '1' saniye beklendi
+2020-09-28 09:05:25 INFO  StepImplementation:153 - 'jobs_locations' select listesinden 'Istanbul, Turkey' değeri seçildi
+2020-09-28 09:05:26 WARN  WaitOperation:116 - '1' saniye statik bekleme yapıldı
+2020-09-28 09:05:26 INFO  StepImplementation:110 - '1' saniye beklendi
+2020-09-28 09:05:27 INFO  StepImplementation:153 - 'jobs_teams' select listesinden 'Quality Assurance' değeri seçildi
+2020-09-28 09:05:29 WARN  WaitOperation:116 - '2' saniye statik bekleme yapıldı
+2020-09-28 09:05:29 INFO  StepImplementation:110 - '2' saniye beklendi
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Quality Assurance Analyst' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Quality Assurance Engineer' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Quality Assurance Team Lead' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Quality Assurance Tester' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Senior Software Quality Assurance Engineer' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Quality Assurance' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Quality Assurance' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Quality Assurance' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Quality Assurance' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Quality Assurance' değeri 'Quality Assurance' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Istanbul, Turkey' değeri 'Istanbul, Turkey' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Istanbul, Turkey' değeri 'Istanbul, Turkey' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Istanbul, Turkey' değeri 'Istanbul, Turkey' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Istanbul, Turkey' değeri 'Istanbul, Turkey' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:05:29 INFO  AssertionOperation:31 -  'Istanbul, Turkey' değeri 'Istanbul, Turkey' değerini içeriyor mu kontrol edildi.
+2020-09-28 09:06:00 ERROR WaitOperation:43 -  'By.xpath: .//div[@class='posting-headline']//h2' elementinin sayfa üzerinde var olması beklenirken hata oluştu! Hata kodu 'Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='posting-headline']//h2 (tried for 30 second(s) with 1000 milliseconds interval)'
+2020-09-28 09:06:03 ERROR BaseTest:41 - Driver kapatılırken hata oluştu! 'INSIDER JOB APPLY NEGATIVE SCENARIO FOR SCREENSHOT'
